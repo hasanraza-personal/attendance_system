@@ -1,0 +1,100 @@
+*{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+.hide
+{
+    display: none;
+}
+.admin_radiobutton
+{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.lecture_notification
+{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.practical_notification
+{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.tutorial_notification
+{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.links a{
+    text-decoration: none;
+    padding: 10px 10px;
+    margin: 00px 20px;
+    background-color: #5cb85c;
+    color: black;
+    transition: 0.5s ease;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 1px black solid;
+}
+.links{
+    text-align: center;
+    margin-top: 1%;
+}
+.links h1{
+    padding: 20px;
+}
+.welcome{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.links a:last-child{
+    background-color: white;
+}
+.links a:hover{
+opacity: 0.8;
+}
+
+.header{
+    text-align: center;
+    padding: 20px;
+
+}
+.back{
+    text-decoration: none;
+    position: relative;
+    margin-left: 90%;
+    padding: 10px 20px;
+    border:1px black solid
+}
+.buttons{
+    text-align: center;
+}
+.buttons button{
+    color: black;
+    border: 1px black solid;
+    margin: 20px 20px;
+    border-radius: 0px;
+    background-color: #5cb85c;
+    padding: 10px 20px;
+}
+.teacher_buttons
+{
+    width:100%;
+    border-style: solid;
+    float: left;
+    text-align: center;
+}
+.teacher_button{
+    float: left;
+    color: black;
+    border: 1px black solid;
+    margin: 20px 20px;
+    border-radius: 0px;
+    background-color: #5cb85c;
+    padding: 10px 20px;
+}
